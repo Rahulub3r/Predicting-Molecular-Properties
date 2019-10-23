@@ -1,2 +1,6 @@
 # Predicting-Molecular-Properties
-This is from a kaggle competition
+
+This project has data from a kaggle competition
+
+### This scripts are still in progress
+
