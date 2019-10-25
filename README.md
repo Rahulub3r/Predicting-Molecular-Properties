@@ -1,6 +1,6 @@
 # Predicting-Molecular-Properties
 
-Molecular property called as *scalar coupling constant* is to be predicted from some geometric features of 100,000 plus organic molecules.
+Molecular property called as **scalar coupling constant** is to be predicted from some geometric features of 100,000 plus organic molecules.
 More details about the competition can be found [here](https://www.kaggle.com/c/champs-scalar-coupling)
 
 ## Running scripts
