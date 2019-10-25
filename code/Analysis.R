@@ -7,14 +7,14 @@ library(data.table)
 Sys.setenv(KMP_DUPLICATE_LIB_OK=TRUE)
 Sys.setenv('KMP_DUPLICATE_LIB_OK'=TRUE)
 
-path<-"~/Data/"
+path<-"data/"
 
 # Load functions
 source("~/utility_functions.R")
 
 # Load data
-dt_str<-fread("dt_str.csv")
-test_str<-fread('test_str.csv')
+dt_str<-fread("data/dt_str.csv")
+test_str<-fread('data/test_str.csv')
 
 # Add some more variables
 transform2<-function(dt){
