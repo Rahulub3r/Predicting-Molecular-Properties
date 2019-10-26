@@ -21,4 +21,4 @@ train.csv, test.csv, and structures.csv files should be downloaded from this [we
 
 geometric features should be downloaded from this [website](https://www.kaggle.com/bigironsphere/simple-molecular-geometry-features)
 
-### NOTE: This scripts are not very organized and are still in progress
+### NOTE: This scripts are not very organized and are still in the progress of getting better for re-use
