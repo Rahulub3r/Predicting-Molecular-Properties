@@ -7,7 +7,7 @@ More details about the kaggle competition can be found [here](https://www.kaggle
 **Output measure:** Testing MAE (Mean Absolute Error)<br>
 **Tasks:** Regression, Feature Engineering, Data Transformation<br>
 **Number of rows:** Train rows-4.5M; Test rows-2.5M<br>
-**Models:** Linear regression, Adaptive regression splines, Random Forest, Neural Nets, and LightGBM<br>
+**Models:** Linear Regression, Adaptive Regression Splines, Random Forest, Neural Nets, and LightGBM<br>
 
 ## F.A.Q
 ### How to run these scripts?
